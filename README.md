@@ -46,32 +46,6 @@ VSCode • Linux/WSL • Figma (UI collaboration)
 
 ## 🔥 Featured Projects
 
-### 💼 **Project 1 — Large-Scale React Platform (Professional Work)**  
-Frontend for a system used by **thousands of users daily**, delivering:  
-✔ UI performance improvements  
-✔ Modular architecture with reusable components  
-✔ API integration and error handling patterns  
-
-**Tech:** React, TS, MUI, Axios, Zustand, Git Flow  
-*(Private repository — described for professional overview)*
-
----
-
-### 🌐 **Project 2 — Personal Next.js App**  
-A real-world application showcasing routing, SSR, hooks, API calls, authentication, and performance patterns.
-
-🔗 *repo soon*
-
-**Tech:** Next.js, React, TS, Tailwind, Zustand
-
----
-
-### 📄 **Project 3 — Components Library (Work in Progress)**  
-Building a reusable components library for personal and future work.
-
-🔗 *repo soon*
-
-**Tech:** React, TypeScript, Storybook
 
 
 ## 📊 GitHub Stats  
